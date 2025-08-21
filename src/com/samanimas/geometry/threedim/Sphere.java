@@ -1,7 +1,7 @@
-package com.uplift.homeworkfour.threedim;
+package com.samanimas.geometry.threedim;
 
-import com.uplift.homeworkfour.common.ThreeDimShape;
-import com.uplift.homeworkfour.twodim.Circle;
+import com.samanimas.geometry.common.ThreeDimShape;
+import com.samanimas.geometry.twodim.Circle;
 
 public class Sphere extends Circle implements ThreeDimShape {
 

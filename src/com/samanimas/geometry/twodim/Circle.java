@@ -1,7 +1,7 @@
-package com.uplift.homeworkfour.twodim;
+package com.samanimas.geometry.twodim;
 
-import com.uplift.homeworkfour.common.Shape;
-import com.uplift.homeworkfour.common.TwoDimShape;
+import com.samanimas.geometry.common.Shape;
+import com.samanimas.geometry.common.TwoDimShape;
 
 public class Circle extends Shape implements TwoDimShape {
 

@@ -1,7 +1,7 @@
-package com.uplift.homeworkfour.threedim;
+package com.samanimas.geometry.threedim;
 
-import com.uplift.homeworkfour.common.ThreeDimShape;
-import com.uplift.homeworkfour.twodim.Square;
+import com.samanimas.geometry.common.ThreeDimShape;
+import com.samanimas.geometry.twodim.Square;
 
 public class Cube extends Square implements ThreeDimShape {
     public Cube (double side) {

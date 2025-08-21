@@ -1,4 +1,4 @@
-package com.uplift.homeworkfour.common;
+package com.samanimas.geometry.common;
 
 public interface TwoDimShape {
 

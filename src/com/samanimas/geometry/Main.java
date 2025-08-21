@@ -1,8 +1,8 @@
-package com.uplift.homeworkfour;
+package com.samanimas.geometry;
 
 import java.util.Scanner;
-import com.uplift.homeworkfour.twodim.*;
-import com.uplift.homeworkfour.threedim.*;
+import com.samanimas.geometry.twodim.*;
+import com.samanimas.geometry.threedim.*;
 
 
 public class Main {

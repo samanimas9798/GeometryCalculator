@@ -1,7 +1,7 @@
-package com.uplift.homeworkfour.threedim;
+package com.samanimas.geometry.threedim;
 
-import com.uplift.homeworkfour.common.ThreeDimShape;
-import com.uplift.homeworkfour.twodim.Triangle;
+import com.samanimas.geometry.common.ThreeDimShape;
+import com.samanimas.geometry.twodim.Triangle;
 
 
 public class Cone extends Triangle implements ThreeDimShape {
