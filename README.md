@@ -1,2 +1,9 @@
-# GeometryCalculator
-a console-based Java application that allows users to calculate the areas, perimeters, and volumes of a variety of 2D and 3D shapes
+A console-based calculator that allows users to compute the areas, perimeters, surface areas, and volumes of common 2D and 3D shapes.  
+
+This app was built using Java (Core Java, OOP concepts, Math library).  
+
+Features of the app: 
+- Calculator for the area and the perimeter of 2D shapes (Square, Circle, Triangle) 
+- Calculator for the area and the volume of 3D shapes (Cylinder, Sphere, Cube, Cone) 
+
+
